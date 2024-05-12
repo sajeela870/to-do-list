@@ -1,0 +1,53 @@
+
+    .navbar
+    {
+        padding: 1rem 1rem;
+        
+            background-color: #deaff1!important;
+        
+    }
+   
+    .nav-item a {
+    color: #000;
+    padding: 19px 33px;
+    text-decoration: none;
+    }
+    #todo-list li {
+    list-style: none;
+    } 
+    #login-form {
+        background-color: #deaff1;
+        margin: 100px auto;
+        padding: 30px;
+    }
+    
+    #login-form button {
+        width: 100px;
+        margin-top: 20px;
+        background-color: #592694;
+        border: 0px;
+        padding: 10px 10px;
+        text-transform: uppercase;
+    }
+    div#todo-list
+     {
+        margin: 50px 299px;
+        background-color: #e9cdf4;
+    }
+    
+    #todo-list li input {
+        margin-right: 29px;
+    }
+    
+    #todo-list li {
+        border: 1px solid #d2d2d2;
+        padding: 5px;
+    }
+    
+    #todo-list ul {
+        padding: 0px;
+    }
+
+
+
+  
